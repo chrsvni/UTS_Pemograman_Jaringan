@@ -22,7 +22,7 @@ Membuat Game tebak angka dengan java server socket
 2. Clone repositori ini ke komputer Anda:
 
    ```bash
-   git clone https://github.com/chrsvni/Pemrograman_Jaringan_UTS.git
+   git clone https://github.com/chrsvni/UTS_Pemograman_Jaringan.git
    cd nama-proyek
 
 ## Cara menjalankan game
