@@ -33,9 +33,11 @@ Membuat Game tebak angka dengan java server socket
 
 3. buka folder pada aplikasi seperti visual studio code, intellij idea dan sejenisnya.
 
-4. run program pada file SnakeGame.java
+4. jalankan server
 
-5. permainan siap dimainkan
+5. jalankan client sebanyak yang diinginkan
+
+6. permainan siap dimainkan
 
 ## Kontribusi
 
